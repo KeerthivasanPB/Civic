@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: civicsync-backend
+    env: node
+    buildCommand: npm install
+    startCommand: node index.js
+    plan: free
+    rootDir: backend
+    envVars:
+      - key: DATABASE_URL
+        value: postgresql://neondb_owner:npg_dxRz90lYAseS@ep-purple-silence-b5veav35-pooler.c-7.us-east-2.aws.neon.tech/neondb?sslmode=require&channel_binding=require
