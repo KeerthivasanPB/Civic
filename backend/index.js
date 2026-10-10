@@ -13,7 +13,7 @@ app.use(express.json());
 
 // --- NEON POSTGRESQL CONNECTION ---
 const pool = new Pool({
-  connectionString: 'postgresql://neondb_owner:npg_dxRz90lYAseS@ep-purple-silence-b5veav35-pooler.c-7.us-east-2.aws.neon.tech/neondb?sslmode=require&channel_binding=require'
+  connectionString: process.env.DATABASE_URL
 });
 
 async function initDB() {
