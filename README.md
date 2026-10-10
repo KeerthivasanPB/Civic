@@ -1,9 +1,8 @@
 # CivicSync 🏗️ 
 **Transforming Public Works through Transparency, Coordination, and Citizen Auditing.**
 
-[![Demo Video](https://img.shields.io/badge/Watch-Demo_Video-red?style=for-the-badge&logo=youtube)](#) *(Insert YouTube/Drive Link Here)*
-[![Deployment](https://img.shields.io/badge/Live-Deployment-success?style=for-the-badge)](#) *(Insert Vercel/Netlify Link Here)*
-
+[![Demo Video](https://img.shields.io/badge/Watch-Demo_Video-red?style=for-the-badge&logo=youtube)](#)(https://drive.google.com/file/d/1uI4r0yuThjPHRXwfkhlV7hTromXnvrzf/view?usp=sharing)
+[![Deployment](https://img.shields.io/badge/Live-Deployment-success?style=for-the-badge)](#) (https://civic-chi-two.vercel.app/)
 ---
 
 ## 🚨 The Problem
